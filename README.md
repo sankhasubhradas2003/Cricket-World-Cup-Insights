@@ -79,3 +79,4 @@ python analyze_cricket_data.py
 - **LOOKER_STUDIO_SETUP_GUIDE.md**: Complete guide for building the dashboard
 - **PROJECT_REQUIREMENTS_CHECKLIST.md**: Detailed requirements breakdown
 - **DATA_ENHANCEMENT_GUIDE.md**: Data structure analysis and enhancement tips
+- **GITHUB_UPDATE_GUIDE.md**: How to update files in GitHub repository
