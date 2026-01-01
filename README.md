@@ -2,6 +2,8 @@
 
 Dataset and tools for creating a comprehensive Cricket World Cup analytics dashboard in Google Looker Studio.
 
+**GitHub Repository:** [https://github.com/sankhasubhradas2003/Cricket-World-Cup-Insights](https://github.com/sankhasubhradas2003/Cricket-World-Cup-Insights)
+
 ## 📋 Project Status
 
 **⚠️ INCOMPLETE - Dashboard Required**
